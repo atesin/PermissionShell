@@ -1,0 +1,11 @@
+name: PermissionShell
+main: cl.netgamer.permissionshell.Main
+version: 1
+api-version: 1.13
+url: https://dev.bukkit.org/projects/permissionshell
+
+commands:
+  permissionshell:
+    description: "Manage player permissions in runtime"
+    usage: "more info: /permissionshell"
+    aliases: [perm]
